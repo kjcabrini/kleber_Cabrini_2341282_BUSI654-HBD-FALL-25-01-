@@ -42,24 +42,24 @@ format:
 
   <p>
     📧 <a href="mailto:kjc1977ca@outlook.com">kjc1977ca@outlook.com</a> ·
-    🔗 <a href="https://www.linkedin.com/in/kleber.cabrini">LinkedIn</a>
+    🔗 <a href="https://www.linkedin.com/in/kleber-cabrini">LinkedIn</a>
     📄 <a href="kleber-cv.pdf"class="btn btn-primary"download>Download Resume</a>
   </p>
 </div>
 
 <!-- 🌐 Google Translate Widget -->
-<div id="google_translate_element"></div>
+<div id="google_translate_element" style="position: fixed; top: 15px; right: 100px; z-index: 999;"></div>
 
 <script type="text/javascript">
   function googleTranslateElementInit() {
     new google.translate.TranslateElement({
       pageLanguage: 'en',
       includedLanguages: 'en,pt,es',
-      layout:google.translate.TranslateElement.InlineLayout.SIMPLE
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
     }, 'google_translate_element');
   }
 </script>
 
-  <script type="text/javascript"
-    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+<script type="text/javascript"
+  src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
 </script>
