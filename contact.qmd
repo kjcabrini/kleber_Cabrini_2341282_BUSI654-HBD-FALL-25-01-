@@ -1,0 +1,19 @@
+---
+title: "Contact"
+format:
+  html:
+    theme: lux
+    toc: false
+---
+
+You can reach me through the following channels:
+
+- 📍 **location:** New Westminster, BC, Canada
+
+- 📧 **Email:** [kjc1977ca@outlook.com](mailto:kjc1977ca@outlook.com)
+
+- 🔗 **LinkedIn:** [linkedin.com/in/kleber-cabrini](https://www.linkedin.com/in/kleber-cabrini)
+
+---
+
+For additional documents or requests, feel free to reach out directly by email

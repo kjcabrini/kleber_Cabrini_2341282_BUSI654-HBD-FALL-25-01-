@@ -1,0 +1,65 @@
+---
+title: "Kleber Jose Cabrini"
+format:
+  html:
+    theme: lux
+    toc: false
+    smooth-scroll: true
+---
+
+<style>
+  .centered {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  .photo {
+    display: block;
+    margin: 2rem auto 1rem auto;
+    border-radius: 50%;
+    width: 160px;
+  }
+  .tagline {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+  }
+  #google_translate_element {
+    position: absolute;
+    top: 12px;
+    right: 140px;
+    z-index: 999;
+  }
+</style>
+
+<div class="centered">
+  <div class="tagline">MBA Candidate · Strategic Leadership · Sales & Operations · Bilingual Professional</div>
+  ![](kleber.jpeg){.photo}  
+
+  <p>
+  Welcome! I am an MBA candidate at University Canada West with over 20 years of leadership experience in sales, operations, and strategy across Brazil and Canada.  
+  I am passionate about business transformation, performance improvement, and leading high-impact teams to deliver results.
+  </p>
+
+  <p>
+    📧 <a href="mailto:kjc1977ca@outlook.com">kjc1977ca@outlook.com</a> ·
+    🔗 <a href="https://www.linkedin.com/in/kleber.cabrini">LinkedIn</a>
+    📄 <a href="kleber-cv.pdf"class="btn btn-primary"download>Download Resume</a>
+  </p>
+</div>
+
+<!-- 🌐 Google Translate Widget -->
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      includedLanguages: 'en,pt,es',
+      layout:google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+  }
+</script>
+
+  <script type="text/javascript"
+    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>

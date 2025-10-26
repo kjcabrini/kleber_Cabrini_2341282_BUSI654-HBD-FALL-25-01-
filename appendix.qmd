@@ -1,0 +1,37 @@
+---
+title: "Appendix – LLM Draft & Commentary"
+format:
+  html:
+    theme: lux
+    toc: true
+---
+
+## 🤖 LLM-Generated Outline & Draft
+
+Below is the initial draft generated using ChatGPT with the following prompt:
+
+> *"Create an outline and sample text for a one-page MBA student portfolio website using Quarto in Markdown."*
+
+### 📌 Suggested Sections
+1. Bio/About
+2. Education
+3. Work Experience
+4. Skills & Certifications
+5. Contact Info
+6. Resume Download
+
+### 📄 Sample Bio
+> “Welcome! I'm an MBA candidate with a passion for leadership, strategy, and innovation…”
+
+(*Include a snippet do que foi gerado por mim aqui*)
+
+---
+
+## ✍️ Commentary – What I Used and Edited
+
+I used the LLM output as inspiration to:
+- Structure the layout (bio, experience, skills, etc.)
+- Draft the initial text for my summary and skills
+- Adapt Bootstrap icons and Google Translate suggestion
+
+All final text was revised and rewritten in my own voice for authenticity and accuracy.

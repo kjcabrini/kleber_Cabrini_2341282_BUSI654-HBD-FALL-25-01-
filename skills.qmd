@@ -1,0 +1,37 @@
+---
+title: "Skills & Certifications"
+format:
+  html:
+    theme: lux
+    toc: false
+---
+
+### 🛠️ Core Skills
+- Strategic Sales Management
+- Supply Chain Optimization
+- Operational Leadership
+- Data Analysis & Forescasting
+- Team Development & People Managment
+- Financial Planning
+- Excel (Advanced)
+- Bilingual: Portuguese & English
+
+---
+
+### 🧾 Certifications & Excecutive Training
+- **Black Belt & Green Belt** - RL Associados (2019)
+- **Strategic Negotiation & Conflict Management** - INSPER (2017)
+- **Oratory & Communication Techniques** - Cecília Lima (2018)
+- **Feedback Techniques (Nonviolent Communication)** - Casa Firmamento (2020)
+- **Sales Leadership for High Performance Teams** - Paideia (2014)
+- **Industrial Cost Management & Pricing** - Moraes Cursos (2005)
+- **Planning, Shceduling & Production Control** - CIESP (2006)
+
+---
+### 💡 Soft Skills
+- Adaptability & Resilience
+- Conflict Resolution
+- Cross-Functional Leadership
+- Public Speacking
+- Strategic Thinking
+- Empathy in Team Management

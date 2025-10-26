@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Kleber Jose Cabrini"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "Resume"
+        href: kleber-cv.pdf
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kleber-cabrini
+      - icon: envelope
+        href: mailto:kjc1977ca@outlook.com
+  page-footer:
+    left: "© 2025 Kleber Jose Cabrini"
+    right: "Powered by Quarto"
+
+format:
+  html:
+    theme: lux
+    toc: false
+    smooth-scroll: true
+
+
+

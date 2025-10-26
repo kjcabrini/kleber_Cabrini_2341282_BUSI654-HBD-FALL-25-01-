@@ -1,0 +1,42 @@
+---
+title: "Professional Experience"
+format:
+  html:
+    theme: lux
+    toc: true
+---
+
+#### Sales Representative
+**[FD WOW Food Inc.](https://www.wowfood.ca)** ·  Canada - Oct 2024 - Present*
+
+- Developed new clients base and executed tasting campaigns in retail and farmers' markets.
+- Supervised in-store promotional teams and represented brand at SGF business fair.
+
+#### Chief Executive Officer (CEO)
+**Seikou Business Management** · Brazil - Jan 2022 - Present*
+
+For Company **[ODAIR PNEUS LTDA](https://odairpneus.com.br)**, Brazil
+
+- Provide consulting to tire retailers in 390+ cities. 
+- Recruited, trained, and managed national sales teams.
+- Implemented ERP migration and restructured KPI system to drive performance.
+
+For Company **[LATICÍNIOS DA FAZENDA](https://www.laticiniosdafazenda.com.br/)**, Brazil
+
+- Implementation of Sales Team
+- Establishment of KPIs for performance control of the Sales Team
+- Guidance on building Sales Budget
+
+#### Director of Operations
+**[ZD Food S.A.](http://www.zdalimentos.com.br)** · Brazil - Jan 2020-Dec 2021*
+
+- Oversaw all operations: procurement, processing, logistics, and distribuition.
+- Reduced costs by consolidating operations and optimizing supply chain.
+- Managed 300+ staff and improved talent retention.
+
+#### Sales Manager
+**[ZD Food S.A.](http://www.zdalimentos.com.br),** · Brazil - 1994-2019*
+
+- Achieved 350% increase in dairy production (2018-2019).
+- Developed pricing and margin strategies that exceeded sales targets annually.
+- Led a 50-person sales team across national territory (Brazil).
