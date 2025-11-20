@@ -31,17 +31,25 @@ format:
   }
 </style>
 
+   #google_translate_element {
+     position: fixed;
+     top: 15px;
+     right: 100px;
+     z-index: 999;
+}
+</style>
+
 <!-- 🌐 Google Translate Widget -->
-<div id="google_translate_element" style="position: fixed; top: 15px; right: 100px; z-index: 999;"></div>
+<div id="google_translate_element"></div>
 
 <script>
-  function googleTranslateElementInit() {
+  window.onload = function () {
     new google.translate.TranslateElement({
       pageLanguage: 'en',
       includedLanguages: 'en,pt,es',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE
     }, 'google_translate_element');
-  }
+  };
 </script>
 
 <script defer src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
