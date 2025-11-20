@@ -1,7 +1,6 @@
 project:
   type: website
-
-output-dir: docs
+  output-dir: docs
 
 website:
   title: "Kleber Jose Cabrini"
@@ -9,6 +8,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Education"
+        href: education.qmd
       - text: "Experience"
         href: experience.qmd
       - text: "Skills"

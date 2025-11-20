@@ -1,0 +1,17 @@
+---
+title: "Education"
+Format:
+   theme: lux
+   toc: false
+   smooth-scroll: true
+---
+
+## 🎓 Education
+
+**MBA - University Canada West**
+*Vancouver, BC - Expected 2026*
+Relevant Courses: Strategic Leadership, AI in Business, Operations Management
+
+**Bachelor's Degree in Business Administration**
+*FACCAT - Faculdade de Ciências Contábeis e Administração de Tupã*
+Focus: Sales Strategy, Acconunt, Finance
