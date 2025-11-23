@@ -14,10 +14,14 @@ website:
         href: experience.qmd
       - text: "Skills"
         href: skills.qmd
+      - text: "Community Service"
+        href: community-service.qmd
       - text: "Contact"
         href: contact.qmd
       - text: "Resume"
         href: kleber-cv.pdf
+    
+"
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/kleber-cabrini

@@ -23,8 +23,7 @@ format:
     color: #555;
     margin-bottom: 1.5rem;
   }
-  
-  </style>
+  <style>
     #google_translate_element {
       position: fixed;
       top: 15px;
